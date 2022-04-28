@@ -10,8 +10,8 @@ The file 'gilbert.c' is the main code file. The program can be compiled using th
 
 Input: Reference state in a file with the naming convention 'ppt<#>.dat'
 Output: Two files- 
-        1. Containing the approximations to the closest separable state: "pptm<#><d>-<n>r.txt"
-        2. Containing the sequence of Hilbert-Schmidt distances:  "pptm<#><d>-<n>.txt"
+        1. Containing the approximations to the closest separable state: "pptm<#>*d*-*n*r.txt"
+        2. Containing the sequence of Hilbert-Schmidt distances:  "pptm<#>*d*-*n*.txt"
 
 The command to run the program takes 4 integers:
 1. Number of parties, n
